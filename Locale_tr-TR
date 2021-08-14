@@ -1,0 +1,7 @@
+Messages:
+	Prefix: &6&lIKARUS ➥
+	Char_Err: &7Yazdığınız &ecümle/kelime &7desteklenmeyen karakter(ler) içeriyor.
+	WorldGuard_Err: &7Burası &cWorldGuard&7 tarafından korumalı.
+	Chunk_Err: &7Burada başka bir kartel var.
+	Dont_Have_To_Dia_Create: &7Kartel kurabilmek için yeterli &belmas'a&7 sahip değilsin.
+	Guild_Create: &c{PLAYER} isimli oyuncu &c{GUILD} kartel'ini&7 oluşturdu.
